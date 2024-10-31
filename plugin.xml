@@ -26,7 +26,7 @@
       </feature>
     </config-file>
 <!--      <framework src="src/android/plugin.gradle" custom="true" type="gradleReference"/>-->
-    <framework src="com.razorpay:checkout:1.6.19"/>
+    <framework src="com.razorpay:checkout:1.6.41"/>
     <source-file src="src/android/Main.java" target-dir="src/com/razorpay/cordova/"/>
   </platform>
 
